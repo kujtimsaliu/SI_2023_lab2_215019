@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\kujti\\OneDrive\\Desktop\\SI_lab2_215019\\build\\classes\\java\\main;C:\\Users\\kujti\\OneDrive\\Desktop\\SI_lab2_215019\\build\\resources\\main'
+-d 'C:\\Users\\kujti\\OneDrive\\Desktop\\SI_lab2_215019\\build\\docs\\javadoc'
+-doctitle 'SI_lab2_215019 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'SI_lab2_215019 1.0-SNAPSHOT API'
+'C:\\Users\\kujti\\OneDrive\\Desktop\\SI_lab2_215019\\src\\main\\java\\org\\example\\SILab2.java'
